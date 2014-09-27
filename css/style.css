@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden{
+	display:none;
+    visibility: hidden;
+}
+
+.thumbnail {
+	border: none;
+}
+
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
