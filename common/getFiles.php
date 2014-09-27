@@ -1,6 +1,6 @@
 <?php
-//$startpath = $_GET['folder'];
-$startpath = '../gallery';
+$startpath = $_GET['folder'];
+//$startpath = '../gallery';
 //echo '<script>alert("'.$testvar.'")</script>';
 
 //$startpath = "../gallery";
